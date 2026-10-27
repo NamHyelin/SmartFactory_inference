@@ -90,3 +90,17 @@ S. Kook, S. Baek, **H. Nam**, and S.-L. Kim
 
 [![IEEE Paper](https://img.shields.io/badge/IEEE-Paper-262139?style=for-the-badge&logo=ieee&logoColor=F472B6)](https://doi.org/10.1109/ICCWorkshops53468.2022.9915030)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-202C49?style=for-the-badge&logo=googlescholar&logoColor=79B8FF)](https://scholar.google.com/scholar?q=Demo%3A+ML-based+Vision+Classification+in+the+Smart+Brewing+Factory+Testbed)
+
+
+---
+
+## Media Coverage
+
+The smart brewing factory testbed and its application of AI-based machine vision, MEC, and private 5G networking were featured in ZDNet Korea.
+
+[![ZDNet Korea](https://img.shields.io/badge/ZDNet_Korea-News_Coverage-262139?style=for-the-badge&logoColor=F472B6)](https://zdnet.co.kr/view/?no=20220107130324)
+
+**ZDNet Korea | January 7, 2022**
+
+*Why Private 5G Networks Matter for Brewing Factories*
+
