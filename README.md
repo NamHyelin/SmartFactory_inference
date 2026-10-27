@@ -47,6 +47,11 @@ Factory Imaging Devices (x4)
            ▼
  Factory MES Integration
 ```
+| File | Description |
+|---|---|
+| `img_acquisition_main.py` | Acquires and processes images from four factory devices. |
+| `Yolo_inference.py` | Performs YOLO inference on the acquired images. |
+| `save_excel.py` | Exports inference results to Excel files for MES integration. |
 
 ---
 
@@ -64,27 +69,6 @@ Real-world deployment of the YOLO-based vision classification framework in the s
     </td>
   </tr>
 </table>
-
----
-
-## Repository Structure
-
-```text
-YOLO_inference/
-├── README.md
-├── img_acquisition_main.py
-├── Yolo_inference.py
-├── save_excel.py
-└── assets/
-    ├── exp1.png
-    └── exp2.png
-```
-
-| File | Description |
-|---|---|
-| `img_acquisition_main.py` | Acquires and processes images from four factory devices. |
-| `Yolo_inference.py` | Performs YOLO inference on the acquired images. |
-| `save_excel.py` | Exports inference results to Excel files for MES integration. |
 
 ---
 
