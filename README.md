@@ -1,6 +1,5 @@
 
 # YOLO Inference for Smart Brewing Factory
-# YOLO Inference for Smart Brewing Factory
 
 **Real-Time Vision Classification | 5G-Enabled Smart Factory | MEC Integration**
 
