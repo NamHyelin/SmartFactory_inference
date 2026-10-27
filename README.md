@@ -56,10 +56,10 @@ Real-world deployment of the YOLO-based vision classification framework in the s
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="assets/exp1.png" width="100%" alt="Factory experiment 1"/>
+      <img src="figs/exp1.png" width="100%" alt="Factory experiment 1"/>
     </td>
     <td width="50%" align="center">
-      <img src="assets/exp2.png" width="100%" alt="Factory experiment 2"/>
+      <img src="figs/exp2.png" width="100%" alt="Factory experiment 2"/>
     </td>
   </tr>
 </table>
