@@ -1,13 +1,14 @@
 
 # YOLO Inference for Smart Brewing Factory
+# YOLO Inference for Smart Brewing Factory
 
-**Real-Time Vision Classification & Industrial MES Integration**
+**Real-Time Vision Classification | 5G-Enabled Smart Factory | MEC Integration**
 
-An industrial computer vision system developed by Yonsei University in collaboration with Daesun, a Korean brewing company.
+An industrial computer vision system developed by Yonsei University in collaboration with Daesun Brewing Company.
 
-The system performs **real-time classification of recyclable bottles** using YOLO-based object detection models, running directly on computing devices installed in the brewery's production environment.
+The system performs **real-time YOLO-based classification of recyclable bottles**, deployed on computing devices in an operating brewery.
 
-Inference results are exported to Excel files for integration with the factory's **Manufacturing Execution System (MES)**.
+The project integrates **AI-based machine vision, 5G private network-based edge-cloud communication, and Manufacturing Execution System (MES) integration** for practical smart factory automation.
 
 ![Python](https://img.shields.io/badge/Python-262139?style=for-the-badge&logo=python&logoColor=F472B6)
 ![YOLO](https://img.shields.io/badge/YOLO-252341?style=for-the-badge&logo=yolo&logoColor=A78BFA)
@@ -25,6 +26,7 @@ The framework integrates image acquisition, YOLO inference, and industrial data 
 - **YOLO-Based Classification:** Detects and classifies recyclable bottles using trained object detection models.
 - **Industrial Deployment:** Executes inference directly on computing equipment installed in the production environment.
 - **MES Integration:** Exports classification results to Excel files for storage and integration with the factory's MES.
+- **5G-Enabled MEC-Based Smart Factory:** Investigated private 5G networking for low-latency, reliable industrial communication between factory equipment and edge-cloud infrastructure.
 
 ### Processing Pipeline
 
